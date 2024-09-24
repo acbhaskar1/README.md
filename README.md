@@ -4,19 +4,31 @@
 
 
 
-## Overview
+## About Me
+I'm a developer with a focus on becoming a senior developer and a passion for **finance** and **tech tutorials**. I'm currently learning **Drupal**, **data science**, and working on projects using **PHP 8** and **Redux**.
 
-This project is [brief description of your project]. It does the following:
-- Feature 1
-- Feature 2
-- Feature 3
+## 🔧 Technologies I work with
+- Languages: JavaScript, PHP (7 & 8), Python
+- Frameworks: React, Redux
+- Tools: Git, Docker, Kubernetes
 
-Whether you're a beginner or a pro, this project will help you [key benefit or use case].
+## 📚 Current Projects
+- Building a product CRUD dashboard with login functionality using Redux and a winter theme.
+- Creating finance and tech tutorials.
 
-## Features
-- Feature 1
-- Feature 2
-- Feature 3
+## 📫 How to reach me
+- [LinkedIn](https://www.linkedin.com/in/your-linkedin/)
+- [Twitter](https://twitter.com/your-twitter)
+
+## 🌟 My Interests
+- Web development
+- Data Science
+- Blockchain technology
+- Financial technology
+
+## 📊 GitHub Stats
+![Bhaskar's GitHub stats](https://github-readme-stats.vercel.app/api?username=ACBhaskarReddy&show_icons=true&theme=radical)
+
 
 ## Installation
 
