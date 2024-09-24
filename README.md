@@ -16,9 +16,7 @@ I'm a developer with a focus on becoming a senior developer and a passion for **
 - Building a product CRUD dashboard with login functionality using Redux and a winter theme.
 - Creating finance and tech tutorials.
 
-## 📫 How to reach me
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin/)
-- [Twitter](https://twitter.com/your-twitter)
+
 
 ## 🌟 My Interests
 - Web development
@@ -26,8 +24,6 @@ I'm a developer with a focus on becoming a senior developer and a passion for **
 - Blockchain technology
 - Financial technology
 
-## 📊 GitHub Stats
-![Bhaskar's GitHub stats](https://github-readme-stats.vercel.app/api?username=ACBhaskarReddy&show_icons=true&theme=radical)
 
 
 ## Installation
