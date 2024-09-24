@@ -5,7 +5,7 @@
 
 
 ## About Me
-I'm a developer with a focus on becoming a senior developer and a passion for **finance** and **tech tutorials**. I'm currently learning **Drupal**, **data science**, and working on projects using **PHP 8** and **Redux**.
+I'm a Senior developer with a focus on becoming a Tech Architect developer and a passion for **finance** and **tech tutorials**. and working on projects using **PHP 8** and **Redux**.
 
 ## 🔧 Technologies I work with
 - Languages: JavaScript, PHP (7 & 8), Python
